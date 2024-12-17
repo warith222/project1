@@ -1,0 +1,7 @@
+/* body { background-color: white;
+color: black;
+text-align: center;} */
+ section p{ color: red;}
+ .uni > .uniib > .uniibdept{color: blue;}
+ .sub + .topic + .type {text-align: center;}
+ .country ~ p {color: brown;}
